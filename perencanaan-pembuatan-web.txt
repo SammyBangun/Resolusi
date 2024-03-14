@@ -1,7 +1,7 @@
 RENCANA WEBSITE TAHUN 2024 :
 
 - Portfolio : Website untuk portfolio sebagai pelengkap dalam melamar kerja.
-- LILVid : Website video seperti YouTube, tetapi dengan fitur yang tidak terlalu kompleks.
+- LILVid : Website video seperti YouTube, tetapi dengan fitur yang tidak terlalu kompleks dan ada kemungkinan untuk sharing video.
 - CleanX : Website untuk perusahaan jasa cleaning service.
 - Testro : Website untuk mengetes kecepatan mengetik.
-- Bangun.Inc : Website E-Commerce.
+- Bangun.Inc : Website E-Commerce (baru pemikiran awal).
